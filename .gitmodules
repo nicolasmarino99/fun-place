@@ -1,0 +1,6 @@
+[submodule "server-fun-place"]
+	path = server-fun-place
+	url = https://github.com/nicolasmarino99/server-fun-place.git
+[submodule "client-fun-place"]
+	path = client-fun-place
+	url = https://github.com/nicolasmarino99/client-fun-place.git
